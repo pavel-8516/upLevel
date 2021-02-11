@@ -1,0 +1,9 @@
+type: Wall
+health: 1100
+size: 1
+requirements: [
+  diamond/7
+]
+category: defense
+research: goldWall
+chanceDeflect: 3

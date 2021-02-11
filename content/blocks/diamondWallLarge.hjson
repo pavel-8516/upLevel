@@ -1,0 +1,9 @@
+type: Wall
+health: 4400
+size: 2
+requirements: [
+  diamond/28
+]
+category: defense
+research: diamondWall
+chanceDeflect: 5

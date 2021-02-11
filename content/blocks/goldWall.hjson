@@ -1,0 +1,8 @@
+type: Wall
+health: 800
+size: 1
+requirements: [
+  gold/7
+]
+category: defense
+research: steelWall

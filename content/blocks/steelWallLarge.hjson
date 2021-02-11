@@ -1,0 +1,8 @@
+type: Wall
+health: 1600
+size: 2
+requirements: [
+  steel/28
+]
+category: defense
+research: steelWall

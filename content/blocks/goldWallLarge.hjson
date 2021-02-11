@@ -1,0 +1,8 @@
+type: Wall
+health: 3200
+size: 2
+requirements: [
+  gold/28
+]
+category: defense
+research: goldWall

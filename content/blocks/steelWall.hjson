@@ -1,0 +1,8 @@
+type: Wall
+health: 400
+size: 1
+requirements: [
+  steel/7
+]
+category: defense
+research: titanium-wall

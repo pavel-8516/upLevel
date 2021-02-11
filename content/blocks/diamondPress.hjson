@@ -1,0 +1,25 @@
+type: GenericCrafter
+itemCapacity: 10
+outputItem: {
+  item: diamond
+  amount: 1
+}
+size: 2
+hasPower: true
+hasItem: true
+craftTime: 50
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.8
+  item: diamondOre
+}
+requirements: [
+  lead/80
+  copper/120
+  silicon/80
+  titanium/60
+  steel/30
+  gold/20
+]
+category: crafting
+research: kilnGold

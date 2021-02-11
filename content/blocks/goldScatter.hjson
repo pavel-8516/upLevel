@@ -1,0 +1,35 @@
+type: ItemTurret
+health: 1300
+coolantMultiplier: 40
+size: 2
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+liquidCapacity: 10
+requirements: [
+copper/70
+lead/20
+gold/20
+]
+ammoTypes: {
+gold: {
+lifetime: 60
+speed: 3
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 6
+width: 9
+height: 12
+fragBullet: null
+backColor: E0E02F
+frontColor: FFFF36
+}} 
+range: 165
+reload: 10
+inaccuracy: 15
+shots: 2
+targetAir: true
+targetGround: false
+category: turret
+research: steelScatter

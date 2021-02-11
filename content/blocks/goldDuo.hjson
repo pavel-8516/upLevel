@@ -1,0 +1,32 @@
+type: ItemTurret
+health: 500
+size: 1
+hasItems: true
+hasLiquids: true
+itemCapacity: 10
+liquidCapacity: 10
+range: 110
+reloadTime: 18
+inaccuracy: 2
+shots: 2
+coolantMultiplier: 40
+ammoTypes: {
+gold: {
+lifetime: 70
+speed: 3.5
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 16
+width: 9
+height: 12
+fragBullet: null
+backColor: E0E02F
+frontColor: FFFF36
+}}
+requirements: [
+copper/10
+gold/25
+]
+category: turret
+research: steelDuo

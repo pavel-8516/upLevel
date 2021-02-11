@@ -1,0 +1,22 @@
+type: GenericSmelter
+itemCapacity: 10
+outputItem: {
+  item: steel
+  amount: 1
+}
+size: 2
+hasPower: true
+hasItem: true
+craftTime: 33
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.4
+  item: lead
+}
+requirements: [
+  lead/50
+  copper/80
+  silicon/30
+]
+category: crafting
+research: silicon-smelter
