@@ -1,2 +1,2 @@
 v0.4:
-- Added new conveyor(steel, gold, diamond)
+- Added a new conveyor(steel, gold, diamond)
