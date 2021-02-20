@@ -1,0 +1,11 @@
+type: Conveyor
+health: 105
+speed: 0.13f
+displayedSpeed: 15f
+requirements: [
+copper/2
+lead/1
+gold/1
+]
+category: distribution
+research: steelConv

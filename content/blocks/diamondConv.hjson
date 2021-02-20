@@ -1,0 +1,11 @@
+type: Conveyor
+health: 125
+speed: 0.17f
+displayedSpeed: 18f
+requirements: [
+copper/2
+lead/1
+diamond/1
+]
+category: distribution
+research: goldConv
