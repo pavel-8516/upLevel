@@ -24,6 +24,19 @@ height: 12
 fragBullet: null
 backColor: E0E02F
 frontColor: FFFF36
+}
+goldOre: {
+lifetime: 60
+speed: 2.8
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 4
+width: 9
+height: 12
+fragBullet: null
+backColor: E0E02F
+frontColor: FFFF36
 }} 
 range: 165
 reload: 10
