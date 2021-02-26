@@ -24,7 +24,7 @@ fragBullet: null
 backColor: A8A8A8
 frontColor: B3B3B3
 }
-steel: {
+lead: {
 lifetime: 70
 speed: 3.2
 ammoMultiplier: 2
