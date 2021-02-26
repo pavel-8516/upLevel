@@ -24,6 +24,19 @@ height: 12
 fragBullet: null
 backColor: 5ADBD5
 frontColor: 63F0E9
+}
+diamondOre: {
+lifetime: 70
+speed: 3
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 5
+width: 9
+height: 12
+fragBullet: null
+backColor: 5ADBD5
+frontColor: 63F0E9
 }} 
 range: 180
 reload: 8
