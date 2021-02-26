@@ -1,2 +1,6 @@
+v0.4.1:
+- Fix research steel duo
+- Adds a new bullet
+
 v0.4:
 - Added a new conveyor(steel, gold, diamond)
