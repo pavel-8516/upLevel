@@ -23,6 +23,19 @@ height: 12
 fragBullet: null
 backColor: E0E02F
 frontColor: FFFF36
+}
+goldOre: {
+lifetime: 70
+speed: 3.2
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 10
+width: 9
+height: 12
+fragBullet: null
+backColor: E0E02F
+frontColor: FFFF36
 }}
 requirements: [
 copper/10
