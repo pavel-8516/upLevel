@@ -23,6 +23,19 @@ height: 12
 fragBullet: null
 backColor: 5ADBD5
 frontColor: 63F0E9
+}
+diamondOre: {
+lifetime: 80
+speed: 3.5
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 16
+width: 9
+height: 12
+fragBullet: null
+backColor: 5ADBD5
+frontColor: 63F0E9
 }}
 requirements: [
 copper/10
