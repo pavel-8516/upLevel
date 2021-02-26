@@ -24,6 +24,17 @@ height: 12
 fragBullet: null
 backColor: A8A8A8
 frontColor: B3B3B3
+}
+lead: {
+lifetime: 60
+speed: 2.5
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 3
+width: 9
+height: 12
+fragBullet: null
 }} 
 range: 160
 reload: 10
