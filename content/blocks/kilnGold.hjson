@@ -7,7 +7,7 @@ outputItem: {
 size: 2
 hasPower: true
 hasItem: true
-craftTime: 45
+craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
   power: 0.6
