@@ -1,6 +1,7 @@
 v0.5:
 - Added a new ripple
 - Added a new salvo
+- Added a new arc
 - Added a new wall(glass)
 
 v0.4.2:
