@@ -1,0 +1,49 @@
+type: ItemTurret
+requirements: [
+copper/150
+graphite/125
+titanium/60
+steel/30
+]
+size: 3
+shots: 4
+inaccuracy: 12
+reloadTime: 60
+ammoEjectBack: 5
+ammoUseEffect: casing4
+cooldown: 0.03
+velocityInaccuracy: 0.2
+restitution: 0.02
+shootShake: 2
+range: 292
+health: 1300
+shootSound: artillery
+ammoTypes: {
+steel: {
+type: BasicBulletType
+lifetime: 100
+speed: 2.9
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 35
+splashDamage: 33
+splashDamageRadius: 11
+width: 9
+height: 9
+sprite: shell
+}
+lead: {
+lifetime: 85
+speed: 2.6
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+splashDamage: 30
+splashDamageRadius: 10
+width: 9
+height: 9
+sprite: shell
+}} 
+category: turret
+research: ripple

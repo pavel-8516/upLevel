@@ -1,0 +1,43 @@
+type: ItemTurret
+requirements: [
+copper/100
+graphite/80
+titanium/60
+diamond/30
+]
+health: 1900
+size: 2
+range: 168
+reloadTime: 27
+restitution: 0.03
+coolantMultiplier: 20
+ammoEjectBack: 3
+cooldown: 0.03
+shootShake: 2
+burstSpacing: 3
+shots: 4
+ammoUseEffect: casing4
+shootSound: shootBig
+ammoTypes: {
+diamond: {
+lifetime: 60
+speed: 3
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 18
+width: 9
+height: 12
+}
+diamondOre: {
+lifetime: 58
+speed: 2.8
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 16
+width: 9
+height: 12
+}}
+category: turret
+research: goldSalvo

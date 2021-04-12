@@ -1,0 +1,9 @@
+type: Wall
+health: 320
+size: 1
+requirements: [
+  metaglass/8
+]
+category: defense
+research: copper-wall
+chanceDeflect: 5

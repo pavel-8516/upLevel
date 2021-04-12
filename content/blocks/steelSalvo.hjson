@@ -1,0 +1,43 @@
+type: ItemTurret
+requirements: [
+copper/100
+graphite/70
+titanium/60
+steel/30
+]
+health: 1100
+size: 2
+range: 152
+reloadTime: 30
+restitution: 0.03
+coolantMultiplier: 20
+ammoEjectBack: 3
+cooldown: 0.03
+shootShake: 2
+burstSpacing: 3
+shots: 4
+ammoUseEffect: casing4
+shootSound: shootBig
+ammoTypes: {
+steel: {
+lifetime: 57
+speed: 2.8
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 12
+width: 9
+height: 12
+}
+lead: {
+lifetime: 52
+speed: 2.5
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+damage: 9
+width: 9
+height: 12
+}}
+category: turret
+research: salvo

@@ -1,0 +1,9 @@
+type: Wall
+health: 1280
+size: 2
+requirements: [
+  metaglass/32
+]
+category: defense
+research: glassWall
+chanceDeflect: 10
