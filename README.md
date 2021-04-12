@@ -1,3 +1,4 @@
+![upLevel](https://github.com/pavel-8516/upLevel/blob/master/icon.png)
 # upLevel
 My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game.
 ## v0.4.X
