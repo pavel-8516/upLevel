@@ -28,6 +28,7 @@ smokeEffect: shootSmallSmoke
 damage: 18
 width: 9
 height: 12
+frontColor: 63F0E9
 }
 diamondOre: {
 lifetime: 58
@@ -38,6 +39,7 @@ smokeEffect: shootSmallSmoke
 damage: 16
 width: 9
 height: 12
+frontColor: 63F0E9
 }}
 category: turret
 research: goldSalvo
