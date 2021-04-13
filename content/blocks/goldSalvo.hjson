@@ -28,6 +28,7 @@ smokeEffect: shootSmallSmoke
 damage: 14
 width: 9
 height: 12
+frontColor: FFFF36
 }
 goldOre: {
 lifetime: 56
@@ -38,6 +39,7 @@ smokeEffect: shootSmallSmoke
 damage: 11
 width: 9
 height: 12
+frontColor: FFFF36
 }}
 category: turret
 research: steelSalvo
