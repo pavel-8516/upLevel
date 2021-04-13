@@ -1,3 +1,6 @@
+v0.5.1:
+- Add color in bullet
+
 v0.5:
 - Added a new ripple
 - Added a new salvo
