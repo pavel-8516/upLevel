@@ -32,6 +32,7 @@ splashDamageRadius: 13
 width: 9
 height: 9
 sprite: shell
+frontColor: 63F0E9
 }
 diamondOre: {
 lifetime: 95
@@ -44,6 +45,7 @@ splashDamageRadius: 12
 width: 9
 height: 9
 sprite: shell
+frontColor: 63F0E9
 }} 
 category: turret
 research: goldRipple
