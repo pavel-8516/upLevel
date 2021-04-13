@@ -28,6 +28,7 @@ smokeEffect: shootSmallSmoke
 damage: 12
 width: 9
 height: 12
+frontColor: B3B3B3
 }
 lead: {
 lifetime: 52
