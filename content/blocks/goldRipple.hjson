@@ -32,6 +32,7 @@ splashDamageRadius: 12
 width: 9
 height: 9
 sprite: shell
+frontColor: FFFF36
 }
 goldOre: {
 lifetime: 90
@@ -44,6 +45,7 @@ splashDamageRadius: 11
 width: 9
 height: 9
 sprite: shell
+frontColor: FFFF36
 }} 
 category: turret
 research: steelRipple
