@@ -17,6 +17,7 @@ restitution: 0.02
 shootShake: 2
 range: 304
 health: 1550
+targetAir: false
 shootSound: artillery
 ammoTypes: {
 gold: {
