@@ -8,7 +8,7 @@ category: turret
 shootType: {
 type: LightningBulletType
 damage: 25
-lightningColor: FF4F00
+lightningColor: ffffff
 lightningLength: 30
 collidesAir: false
 collidesGround: true
@@ -19,7 +19,7 @@ rotateSpeed: 8
 powerUse: 2.8
 targetAir: false
 targetGround: true
-range: 100
+range: 96
 shootEffect: lightningShoot
 heatColor: ffffff
 recoilAmount: 1
