@@ -6,7 +6,7 @@ hasLiquids: true
 itemCapacity: 10
 liquidCapacity: 10
 range: 115
-reloadTime: 34
+reloadTime: 33
 inaccuracy: 2
 shots: 2
 coolantMultiplier: 40
