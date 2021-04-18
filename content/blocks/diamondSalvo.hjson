@@ -8,7 +8,7 @@ diamond/30
 health: 1900
 size: 2
 range: 168
-reloadTime: 27
+reloadTime: 32
 restitution: 0.03
 coolantMultiplier: 20
 ammoEjectBack: 3
