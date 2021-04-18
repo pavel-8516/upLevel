@@ -8,7 +8,7 @@ gold/30
 health: 1500
 size: 2
 range: 160
-reloadTime: 28
+reloadTime: 34
 restitution: 0.03
 coolantMultiplier: 20
 ammoEjectBack: 3
