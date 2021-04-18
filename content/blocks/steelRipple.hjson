@@ -8,7 +8,7 @@ steel/30
 size: 3
 shots: 4
 inaccuracy: 12
-reloadTime: 60
+reloadTime: 59
 ammoEjectBack: 5
 ammoUseEffect: casing4
 cooldown: 0.03
