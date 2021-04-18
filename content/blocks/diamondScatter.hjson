@@ -39,7 +39,7 @@ backColor: 5ADBD5
 frontColor: 63F0E9
 }} 
 range: 180
-reload: 8
+reload: 12
 inaccuracy: 15
 shots: 2
 targetAir: true
