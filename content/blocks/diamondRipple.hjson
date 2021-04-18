@@ -9,6 +9,7 @@ size: 3
 shots: 4
 inaccuracy: 10
 reloadTime: 53
+targetAir: false
 ammoEjectBack: 5
 ammoUseEffect: casing4
 cooldown: 0.03
