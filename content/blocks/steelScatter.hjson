@@ -37,7 +37,7 @@ height: 12
 fragBullet: null
 }} 
 range: 160
-reload: 16
+reloadTime: 16
 inaccuracy: 15
 shots: 2
 targetAir: true
