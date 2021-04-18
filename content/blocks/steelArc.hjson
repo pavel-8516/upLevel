@@ -13,7 +13,7 @@ lightningLength: 30
 collidesAir: false
 collidesGround: true
 }
-reloadTime: 30
+reloadTime: 33
 shootCone: 40
 rotateSpeed: 8
 powerUse: 2.8
