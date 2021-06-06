@@ -1,3 +1,7 @@
+v0.5.3:
+- Fixed the speed conveyors
+- Changed the crafting of conveyors
+
 v0.5.2:
 - Fix reload time turrets
 
