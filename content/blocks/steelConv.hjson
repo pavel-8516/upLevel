@@ -1,9 +1,9 @@
 type: Conveyor
 health: 85
-speed: 0.10f
-displayedSpeed: 11f
+speed: 0.11f
+displayedSpeed: 12f
 requirements: [
-copper/2
+copper/1
 lead/1
 steel/1
 ]
